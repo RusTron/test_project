@@ -1,23 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { Modal } from './Modal';
+import 'typeface-montserrat';
+import './App.scss';
 
 function App() {
+  const [modalVisible, setModalVisible] = useState(false);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <button className="modal-button" onClick={()=>setModalVisible(true)}>
+        <span className="modal-button__text">Открыть модалку</span>
+      </button>
+      {modalVisible && (
+        <Modal modalVisible={modalVisible} setModalVisible={setModalVisible}/>
+      )}
       </header>
     </div>
   );
