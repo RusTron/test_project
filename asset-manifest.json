@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/test_project/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test_project/static/js/main.9c89e214.chunk.js",
-    "main.js.map": "/test_project/static/js/main.9c89e214.chunk.js.map",
+    "main.css": "/test_project/static/css/main.344e6578.chunk.css",
+    "main.js": "/test_project/static/js/main.26cc3dba.chunk.js",
+    "main.js.map": "/test_project/static/js/main.26cc3dba.chunk.js.map",
     "runtime-main.js": "/test_project/static/js/runtime-main.287c543b.js",
     "runtime-main.js.map": "/test_project/static/js/runtime-main.287c543b.js.map",
-    "static/js/2.763b34e5.chunk.js": "/test_project/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/test_project/static/js/2.763b34e5.chunk.js.map",
+    "static/css/2.0d3fa086.chunk.css": "/test_project/static/css/2.0d3fa086.chunk.css",
+    "static/js/2.4ec7833f.chunk.js": "/test_project/static/js/2.4ec7833f.chunk.js",
+    "static/js/2.4ec7833f.chunk.js.map": "/test_project/static/js/2.4ec7833f.chunk.js.map",
     "index.html": "/test_project/index.html",
-    "precache-manifest.1644c9f6365a8509f46566e5aa2f0b1e.js": "/test_project/precache-manifest.1644c9f6365a8509f46566e5aa2f0b1e.js",
+    "precache-manifest.910f48d3c29b8e5d5d15d70601ea24f7.js": "/test_project/precache-manifest.910f48d3c29b8e5d5d15d70601ea24f7.js",
     "service-worker.js": "/test_project/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/test_project/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/test_project/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/test_project/static/media/logo.5d5d9eef.svg"
+    "static/css/2.0d3fa086.chunk.css.map": "/test_project/static/css/2.0d3fa086.chunk.css.map",
+    "static/css/main.344e6578.chunk.css.map": "/test_project/static/css/main.344e6578.chunk.css.map",
+    "static/js/2.4ec7833f.chunk.js.LICENSE.txt": "/test_project/static/js/2.4ec7833f.chunk.js.LICENSE.txt",
+    "static/media/close.svg": "/test_project/static/media/close.0c3eec56.svg",
+    "static/media/App.scss": "/test_project/static/media/montserrat-latin-900italic.a8ec4957.woff",
+    "static/media/timer.svg": "/test_project/static/media/timer.2ebe5794.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.287c543b.js",
-    "static/js/2.763b34e5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9c89e214.chunk.js"
+    "static/css/2.0d3fa086.chunk.css",
+    "static/js/2.4ec7833f.chunk.js",
+    "static/css/main.344e6578.chunk.css",
+    "static/js/main.26cc3dba.chunk.js"
   ]
 }
